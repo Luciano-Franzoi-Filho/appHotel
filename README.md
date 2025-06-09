@@ -67,3 +67,12 @@ AppReservaHotel
 - Streamlit
 - SQLite3
 - Outras bibliotecas listadas em `requirements.txt`.
+
+## Autores 
+
+Luciano Franzoi Filho 
+Leonardo de Lima Póss
+Raffael Guideti Miello
+Filipe Pimenta de Souza
+
+
