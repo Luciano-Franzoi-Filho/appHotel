@@ -70,9 +70,9 @@ AppReservaHotel
 
 ## Autores 
 
-Luciano Franzoi Filho 
-Leonardo de Lima Póss
-Raffael Guideti Miello
-Filipe Pimenta de Souza
+- Luciano Franzoi Filho 
+- Leonardo de Lima Póss
+- Raffael Guideti Miello
+- Filipe Pimenta de Souza
 
 
